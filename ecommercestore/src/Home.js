@@ -7,7 +7,6 @@ function Home() {
     <div className='Home'>
 <div className='home__container'>
     <img className="home__image"src="https://m.media-amazon.com/images/I/61OLcuy7ezL._SX3000_.jpg" alt=""/>
-    {/* src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg" */}
     <div className='home__row'>
         <Product id="628t38" title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback" price={19.99} image="https://m.media-amazon.com/images/I/51T-sMqSMiL._AC_SY780_.jpg" rating={5}/>
         <Product id="49538094"
